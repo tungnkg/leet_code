@@ -1,4 +1,4 @@
-package l349_intersection_of_two_arrays;
+package l349_intersection_of_two_array;
 
 import java.util.Arrays;
 import java.util.HashSet;
