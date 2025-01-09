@@ -4,7 +4,6 @@ public class Main {
     public static void main(String[] args) {
 
     }
-
     public static int guessNumber(int n) {
         int l = 1;
         int r = n;
